@@ -1,0 +1,16 @@
+{
+  "home": {
+    "listen": "Listen to the best songs there!"
+  },
+  "login": "Login",
+  "manage": {
+    "my_song": "My  Songs"
+  },
+  "register": {
+    "TOS": "",
+    "accept": "",
+    "email": "Email",
+    "password": "Password",
+    "register": "Register"
+  }
+}
